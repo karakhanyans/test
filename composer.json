@@ -11,7 +11,7 @@
             "email": "karakhanyansa@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"Laraveldaily\\Timezones\\": "/src"}
     },
