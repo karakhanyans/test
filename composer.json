@@ -1,0 +1,12 @@
+{
+    "name": "karakhanyans/timezones",
+    "description": "Demo package to show time",
+    "authors": [
+        {
+            "name": "Sergey Karakhanyan",
+            "email": "karakhanyansa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
