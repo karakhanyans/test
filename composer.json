@@ -11,11 +11,11 @@
             "email": "karakhanyansa@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"Laraveldaily\\Timezones\\": "/src"}
     },
     "require": {
         "php": ">=5.3.0"
-        
     }
 }
