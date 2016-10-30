@@ -1,7 +1,6 @@
 {
     "name": "karakhanyans/timezones",
     "description": "Test package",
-    "version": "1.0.0",
     "type": "library",
     "homepage": "https://github.com/karakhanyans/test",
     "license": "MIT",
